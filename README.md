@@ -8,7 +8,7 @@ It can be useful in smart restaurant systems or cleaning services. Instead of ch
 |-----------------------------|-------------------------------------------------|--------------|
 | **Table with clean plates** | Clean plates, no food, table is ready           | ![Clean Table](/Training_Samples/Clean_Plates_Samples/0.jpg) |
 | **Table with food**         | Food currently being eaten or served            | ![Eating Table](/Training_Samples/Plates_of_Food_Samples/0.jpg) |
-| **Table with leftovers**    | Dirty dishes, food scraps, needs cleaning       | ![Leftovers Table](/Training_Samples/Dirty_Plates_Samples/0.jpg) |
+| **Table with leftovers**    | Dirty dishes, food scraps, needs cleaning       | ![Leftovers Table](/Training_Samples/Dirty_Plates_Samples/8.jpg) |
 
 ## Tools & Libraries Used
 
