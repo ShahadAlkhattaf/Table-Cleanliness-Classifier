@@ -1,0 +1,3 @@
+0 table with clean plates
+1 table with plates of food
+2 table with dirty plates
